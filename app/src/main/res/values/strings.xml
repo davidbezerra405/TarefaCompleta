@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tarefa Completa</string>
+    <string name="txt_tarefa_concluida">Todas as tarefas concluídas</string>
+    <string name="txt_bom_trabalho">Bom trabalho!</string>string>
+</resources>
